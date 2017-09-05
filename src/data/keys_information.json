@@ -1,0 +1,49 @@
+[
+  {
+    "id":"101",
+    "name": "军事头条",
+    "path": "http://api.dagoogle.cn/news/get-news?tableNum=3&pagesize=1",
+    "checked": true
+  },
+  {
+    "id":"102",
+    "name": "网易军事",
+    "path": "",
+    "checked": false
+  },
+  {"id":"103",
+    "name": "凤凰军事",
+    "path": "",
+    "checked": false
+  },
+  {
+    "id":"104",
+    "name": "新浪军事",
+    "path": "",
+    "checked": false
+  },
+  {
+    "id":"105",
+    "name": "铁血军事",
+    "path": "",
+    "checked": false
+  },
+  {
+    "id":"106",
+    "name": "中华网军事",
+    "path": "",
+    "checked": false
+  },
+  {
+    "id":"107",
+    "name": "环球网军事",
+    "path": "",
+    "checked": false
+  },
+  {
+    "id":"108",
+    "name": "米尔军事",
+    "path": "http://www.miercn.com/",
+    "checked": false
+  }
+]

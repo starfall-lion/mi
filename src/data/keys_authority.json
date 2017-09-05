@@ -1,0 +1,38 @@
+[
+  {
+    "id":"001",
+    "name": "中国军网",
+    "path": "",
+    "checked": true
+  },
+  {
+    "id":"002",
+    "name": "东海舰队发布",
+    "path": "",
+    "checked": false
+  },
+  {
+    "id":"003",
+    "name": "当代海军",
+    "path": "",
+    "checked": false
+  },
+  {
+    "id":"004",
+    "name": "东线瞭望",
+    "path": "",
+    "checked": false
+  },
+  {
+    "id":"005",
+    "name": "北海舰队",
+    "path": "",
+    "checked": false
+  },
+  {
+    "id":"006",
+    "name": "中国海军",
+    "path": "",
+    "checked": false
+  }
+]
